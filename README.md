@@ -1,1 +1,1 @@
-# xkcd basic scrapper
+# Basic scrapper
